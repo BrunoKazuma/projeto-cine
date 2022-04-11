@@ -37,8 +37,8 @@ nav a:hover{
 }
 main{
     background-color: rgb(17, 17, 17);
-    margin: 6.5% 20%;
-    padding: 6% 1%;
+    margin: 8% 20%;
+    padding: 7% 7%;
     font-size: 20px;
     border-radius: 10px;
 }
@@ -59,8 +59,7 @@ main a:hover{
 footer{
     text-align: center;
     background-color: rgb(12, 12, 12);
-    padding: 2%;
-    margin-top: 1%;
+    padding: 3%;
 }
 footer p{
     color: aliceblue;
