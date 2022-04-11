@@ -36,21 +36,31 @@ nav a:hover{
     transition-duration: 0.7s;
 }
 main{
-    background-color: white;
-    margin: 1% 1%;
-    padding: ;
+    background-color: rgb(17, 17, 17);
+    margin: 6.5% 20%;
+    padding: 6% 1%;
+    font-size: 20px;
+    border-radius: 10px;
 }
-
-
-
-
-
-
-
+main p{
+    margin-top: 3%;
+    color: white;
+}
+main h1{
+    color: white;
+}
+main a{
+text-decoration: underline;
+color: rgb(209, 209, 209);
+}
+main a:hover{
+    color: rgb(117, 117, 117);
+}
 footer{
     text-align: center;
     background-color: rgb(12, 12, 12);
-    padding: 3%;
+    padding: 2%;
+    margin-top: 1%;
 }
 footer p{
     color: aliceblue;
