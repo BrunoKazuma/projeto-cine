@@ -45,6 +45,9 @@ section{
     border-radius: 10px;
     padding: 30px 50px;
 }
+section a {
+    color: white;
+}
 footer{
     text-align: center;
     background-color: rgb(12, 12, 12);
