@@ -1,8 +1,8 @@
 var dark = document.getElementById("dark");
 var white = document.getElementById("white");
 var conteudo = document.getElementById("conteudo");
-var link = document.getElementById("link");
-
+var hello = document.getElementById("hello");
+var link = document.getElementsByClassName("link");
 
 dark.addEventListener('click', function()
 {
@@ -10,7 +10,9 @@ dark.addEventListener('click', function()
     
     document.getElementById('conteudo').style.color = "white";
 
-    document.getElementById('link').style.color = "white";
+    document.getElementById('hello').style.color = "white";
+
+
 })
 
 
@@ -19,5 +21,5 @@ white.addEventListener('click', function (){
 
     document.getElementById('conteudo').style.color= "black";
 
-    document.getElementById('link').style.color = "black";
+    document.getElementById('hello').style.color = "black";
 })
