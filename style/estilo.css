@@ -83,11 +83,11 @@ section p{
 section p .link{
     text-decoration: none;
     font-weight: bolder;
-    color: black;
+    color: rgb(38, 0, 255);
 }
 section p a:hover{
     text-decoration: underline;
-    color: rgb(80, 80, 80);
+    color: rgb(150, 150, 150);
 }
 footer{
     text-align: center;
