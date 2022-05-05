@@ -83,7 +83,7 @@ section p{
 section p .link{
     text-decoration: none;
     font-weight: bolder;
-    color: rgb(38, 0, 255);
+    color: rgb(33, 51, 218);
 }
 section p a:hover{
     text-decoration: underline;
